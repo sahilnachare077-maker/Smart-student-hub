@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Smart Student Hub - Progress</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header>
+    <h1>📊 Progress Tracker</h1>
+    <p>Track your daily study progress.</p>
+  </header>
+
+  <section class="study-section">
+
+    <div class="study-card">
+      <h2>📐 Mathematics</h2>
+      <p>Progress: 0%</p>
+      <progress value="0" max="100"></progress>
+    </div>
+
+    <div class="study-card">
+      <h2>⚡ Physics</h2>
+      <p>Progress: 0%</p>
+      <progress value="0" max="100"></progress>
+    </div>
+
+    <div class="study-card">
+      <h2>🧪 Chemistry</h2>
+      <p>Progress: 0%</p>
+      <progress value="0" max="100"></progress>
+    </div>
+
+    <div class="study-card">
+      <h2>🧬 Biology</h2>
+      <p>Progress: 0%</p>
+      <progress value="0" max="100"></progress>
+    </div>
+
+  </section>
+
+  <footer>
+    <p>© 2026 Smart Student Hub</p>
+  </footer>
+
+</body>
+</html>
